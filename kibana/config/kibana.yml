@@ -1,0 +1,6 @@
+server.name: kibana
+server.host: 0.0.0.0
+elasticsearch.hosts: [ "http://20.5.0.6:9200" ]
+monitoring.ui.container.elasticsearch.enabled: true
+
+elasticsearch.serviceAccountToken: AAEAAWVsYXN0aWMva2liYW5hL3Rva2VuMTpQMTdHRm0xcFJJLWgxSVEyTTA3U0pn
